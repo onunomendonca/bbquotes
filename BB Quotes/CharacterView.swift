@@ -98,5 +98,6 @@ struct CharacterView: View {
 struct CharacterView_Previews: PreviewProvider {
     static var previews: some View {
         CharacterView(show: Constants.bbName, character: Constants.previewCharacter)
+            .preferredColorScheme(.dark)
     }
 }

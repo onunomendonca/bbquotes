@@ -10,11 +10,11 @@ Whether you're a die-hard fan seeking inspiration or simply appreciate thought-p
 
 Key Features:
 
-Access a vast collection of famous quotes from Breaking Bad and Better Call Saul characters.
-Explore character profiles and discover intriguing details about each character.
-Learn about the talented actors who brought these characters to life.
-Share your favorite quotes with friends and fellow fans.
-Enjoy a beautifully designed interface for an immersive experience.
+* Access a vast collection of famous quotes from Breaking Bad and Better Call Saul characters.
+* Explore character profiles and discover intriguing details about each character.
+* Learn about the talented actors who brought these characters to life.
+* Share your favorite quotes with friends and fellow fans.
+* Enjoy a beautifully designed interface for an immersive experience.
 
 This project is part of a course in which I am enrolled in @ [IOS 15 App Development with SwiftUI 3 and Swift 5 Udemy Course](https://farfetch.udemy.com/course/ios-15-app-development-with-swiftui-3-and-swift-5/). 
 
